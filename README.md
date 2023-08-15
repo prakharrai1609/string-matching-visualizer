@@ -1,5 +1,7 @@
 #  <a href="https://prakharrai1609.github.io/string-matching-visualizer/">String Matching Visualization</a> 🎯
 
+<img width="1349" alt="Screenshot 2023-08-15 at 1 26 19 PM" src="https://github.com/prakharrai1609/string-matching-visualizer/assets/58136319/81eaae35-fd5e-4095-8403-367833619df0">
+
 Welcome to the String Matching Visualization repository! 🚀 This repository contains a web tool that helps you visualize string matching algorithms. You can step through the comparison process between a pattern and a text, seeing how the algorithm works its magic! ✨
 
 ## Features 🌟
