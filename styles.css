@@ -13,3 +13,35 @@ body {
   padding: 10px;
   transition: scroll-behavior 0.3s ease-in-out; 
 }
+
+
+/* Footer Styles */
+.cool-footer {
+  color: #000;
+  text-align: center;
+  padding: 1rem;
+}
+
+.footer-text {
+  font-size: 1rem;
+  margin: 0;
+}
+
+.social-links {
+  margin-top: 1rem;
+}
+
+.social-links a {
+  display: inline-block;
+  margin: 0 0.5rem;
+  transition: transform 0.2s;
+}
+
+.social-links a:hover {
+  transform: scale(1.1);
+}
+
+.social-links img {
+  width: 30px;
+  height: 30px;
+}
